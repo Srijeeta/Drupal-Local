@@ -1,0 +1,13 @@
+name: Webforms specific addons to core Contact module
+type: module
+description: Performs specific alters of default Drupal behavior
+# core: 8.x
+package: Webforms
+dependencies:
+  - views
+  - contact
+# Information added by Drupal.org packaging script on 2016-04-08
+version: '8.x-0.x-dev'
+core: '8.x'
+project: 'webforms'
+datestamp: 1460106130
